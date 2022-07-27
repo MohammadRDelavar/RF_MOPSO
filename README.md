@@ -1,5 +1,5 @@
 # RF_MOPSO
-This hybrid function performs by Random Forest and Multi-Objective Particle Swarm Optimization (MOPSO) to find the optimal parameters of a multi-feature process. The example of this version is a drilling process optimization.
+These functions are included the "Random Forest" and the hybrid Random Forest and Multi-Objective Particle Swarm Optimization ("RF_MOPSO") to predict the targets as learning approach and find the optimal parameters of a multi-feature process, respectively. The example of this version is a drilling process prediction and optimization.
 
 The MOPSO algorithm was obtained via:
 
