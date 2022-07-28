@@ -1,5 +1,8 @@
 # RF_MOPSO
 These functions are included the "Random Forest" and the hybrid Random Forest and Multi-Objective Particle Swarm Optimization ("RF_MOPSO") to predict the targets as learning approach and find the optimal parameters of a multi-feature process, respectively. The example of this version is a drilling process prediction and optimization.
+Instruction to use the codes:
+
+The Random Forest and hybrid RF_MOPSO algorithms are run via "Random_Forest.m" and "example_final.m" files, respectively. There is a dataset to implement each method, "data1.csv" is for Random Forest and "data.csv" is belonged to RF_MOPSO. These algorithms indicate the results of the prediction and optimization in MATLAB software.
 
 The MOPSO algorithm was obtained via:
 
